@@ -1,0 +1,290 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=ISO-8859-1">
+<title>&Aacute;rea de descargas de DesarrolloWeb.com</title>
+<meta name="Description" content="Zona de descargas de DesarrolloWeb.com. Esta zona es exclusiva para usuarios registrados de la comunidad de diseñadores y programadores de la web.">
+<meta name="Keywords" content="descarga,download,desarrolladores del web,webmasters hispanos,desarrollador web,oferta de servicios,manuales,comunidad,desarrolloweb">
+<meta name="google-site-verification" content="WCQGci5QTqc6vNzM5H-dxv1mfjmwejxgRH1i3ptggSM" />
+<meta name="author" content="DesarrolloWeb.com">
+<meta name="owner" content="Guiarte Multimedia S.L.">
+<meta name="robots" content="index, follow">
+<link rel="STYLESHEET" type="text/css" href="../estilo_2009.css">
+
+<script src="/js/mootools-core-1.4.5.js" type="text/javascript"></script>
+<script src="/js/mootools-more-1.4.0.1.js" type="text/javascript"></script>
+
+
+<script src="/js/desarrolloweb.js" type="text/javascript"></script>
+
+
+<script src="ie9/js/ie9pin.js" type="text/javascript"></script>
+
+<link rel="apple-touch-icon" href="/images/icono_DW.png">
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-365134-1']);
+  _gaq.push(['_setDomainName', '.desarrolloweb.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script language="JavaScript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0689526051780278");
+GS_googleEnableAllServices();
+</script>
+
+
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0689526051780278", "desarrolloweb-250*250");
+GA_googleAddSlot("ca-pub-0689526051780278", "desarrolloweb-250*250-portada");
+GA_googleAddSlot("ca-pub-0689526051780278", "desarrolloweb-script");
+GA_googleAddSlot("ca-pub-0689526051780278", "desarrolloweb-728*90-portada");
+GA_googleAddSlot("ca-pub-0689526051780278", "desarrolloweb-728*90");
+GA_googleAddSlot("ca-pub-0689526051780278", "desarrolloweb-250*90");
+GA_googleAddSlot("ca-pub-0689526051780278", "desarrolloweb-120x600");
+GA_googleAddSlot("ca-pub-0689526051780278", "especial-250x90-mac");
+
+</script>
+
+<script type='text/javascript'>GA_googleFetchAds();</script>
+
+
+</head>
+
+<body >
+<!--<div id="general">-->
+<div id=megabanner>
+
+	<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+ if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+ document.write('<scr'+'ipt src="http://www4.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+<!--
+<script type="text/javascript">
+sas_pageid='27965/185875';	// Página : DesarrolloWeb/ros
+sas_formatid=9727;		// Formato : dhtml 1x1
+sas_target='';			// Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://www4.smartadserver.com/call/pubjumpi/27965/185875/9727/S/[timestamp]/?">
+<img src="http://www4.smartadserver.com/call/pubi/27965/185875/9727/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>-->
+</div>
+<div id="cabecera">
+	<div id="logo"><a href="../"><img src="../DW1024/images/logo.png" width="228" height="38" alt="DesarrolloWeb.com" / border="0"></a></div>
+	<div id="buscador"><form action=" http://www.desarrolloweb.com/buscar.php " id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="011073350778563559219:9m-vckb5bdk" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Buscar" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+	<div id="hostingby"><a href="http://www.hostalia.com/" rel="nofollow" title="dominios y alojamiento web en hostalia" rel="nofollow"><img src="/images/dph2.gif" border=0 alt="dominios y alojamiento web en hostalia" width="120" height="37"></a></div>
+</div>
+		
+	
+
+			
+<div id="nav">
+	<div id="navopciones"></div>
+	<div id="usuarios">
+		<div id="usuarioscuerpo">
+		<img src="/images/iconos/user.png" width="16" height="16" border="0"> 
+		Usuarios: <a href="javascript:void(0)" id="enlacelogin">Login</a> | <a href="/comunidad/registro/">Registro</a> 		
+		</div>
+	</div>
+</div>
+
+
+
+
+<div id="centralup"></div>
+<div id="supercuerpo">
+<div id="centralcuerpo">
+<!-- desarrolloweb-120x600 -->
+		<script type='text/javascript'>
+			GA_googleFillSlot("desarrolloweb-120x600");
+		</script>
+	<div id="cuerpo">
+		
+		<div id="cizquierda">
+
+		<div id="cizquierdapad">
+							<div id="localizador">
+				<a href="/index.php">DesarrolloWeb.com</a> &gt; <a href=../descargas/descargar.php>Descargas</a>				</div>
+							<div id="principal728x90">
+<!-- desarrolloweb-728*90-portada -->
+		<script type='text/javascript'>
+			GA_googleFillSlot("desarrolloweb-728*90-portada");
+		</script>
+</div>
+				
+				<div class="c728titmd c728titmdvebl">
+					<div class="c728titup c728titupvebl">
+						<div class="c728titdw c728titdwveblfin">
+	
+							<h1>&Aacute;rea de descargas de DesarrolloWeb.com</h1>
+						</div>
+					</div>
+				</div>
+			 
+			No se puede mostrar esta p&aacute;gina. Para acceder debes estar correctamente autenticado como usuario registrado.<p>Error <i class=fuente8 style='color:#cc3333;'>No se han recibido los datos de autenticaci&oacute;n.</i><p>Introduce tus datos de conexi&oacute;n en el formulario de acceso	
+		</div>
+</div>
+<div id="cderecha"><div class="sep10"></div>
+	
+	
+	<div id="clogin"><div class="cu250md" id="flogin" style="display:none;">
+    <div class="cu250up">
+       <div class="cu250dw">
+         <div class="cu250tit">Acceso usuarios</div>
+		 <div class="cu250cue">
+
+		 <form method="post" action="/dologin.php" id="formullogin">
+			<input type="hidden" value="" name="id_descarga" />
+			<input type="hidden" value="/descargas/descargar.php" name="origen" />
+			<table cellspacing="1" cellpadding="1" border="0" align="center">
+			<tr>
+				<td class="fuente8">
+				E-mail: 
+				</td>
+				<td><input type="text" maxlength="150" size="14" name="usuario"/></td>
+			</tr><tr>
+				<td class="fuente8">
+				Clave:
+				</td>
+				<td><input type="password" maxlength="150" size="14" name="clave"/></td>
+			</tr><tr>
+				<td align="right"><input type="checkbox" value="1" name="guardar_clave"/></td>
+				<td class="fuente8"> Recordar este usuario</td>
+			</tr><tr>
+				<td align="center" colspan="2">
+				<div id="cbtnenv" style="height: 25px;">
+				<input type="submit" value="Login"/ id="btnlogin">
+				</div>
+				</td>
+			</tr>
+			</table>
+			</form>
+			<div class=accion style="padding-left: 20px; margin: 0px;">
+			<img src="/images/iconos/key.png" width="16" height="16" alt=""> <a href="/comunidad/recordarclave.php">&iquest;Olvidaste tu clave?</a>
+			<br>
+			<img src="/images/iconos/user.png" width="16" height="16" alt=""> <a href="/comunidad/registro/">Registrarse</a>
+			</div>
+		 
+		 </div>
+       </div>
+    </div>
+</div>
+
+
+
+
+</div>	
+			<div id="principal250x250">		
+		<script type='text/javascript'>
+		GA_googleFillSlot("desarrolloweb-250*250");
+		</script> 
+	</div>	
+		<p>
+		<div id="banner250x90">
+			<!-- desarrolloweb-250*90 -->
+		<script type='text/javascript'>
+			GA_googleFillSlot("desarrolloweb-250*90");
+		</script>		</div>
+		<!-- especial-250x90-mac -->
+		<script type='text/javascript'>
+			GA_googleFillSlot("especial-250x90-mac");
+		</script>
+		
+	<div class="cd250tit"><b>Donaciones</b></div>
+	<div class="cd250cue fuente8">
+	Si piensas que te hemos ayudado y merecemos tu apoyo económico...
+	<div style="margin: 10px 0 30px 52px;">
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+		<input type="hidden" name="cmd" value="_s-xclick">
+		<input type="hidden" name="hosted_button_id" value="9Q3KPVUZFDNLJ">
+		<input type="image" src="https://www.paypal.com/es_ES/ES/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal. La forma rápida y segura de pagar en Internet.">
+		<img alt="" border="0" src="https://www.paypal.com/es_ES/i/scr/pixel.gif" width="1" height="1">
+		</form>
+	</div>
+	</div>
+	
+			</div>
+	</div>
+</div>
+</div>
+<div id="centraldw"></div>
+
+<div id="pie">
+	<div id="contenidopie">
+		<div class="seccionpie" id="secpiesecciones">
+			<div class="secpietitulo">
+				<a href="/secciones/">Secciones principales</a>
+			</div>
+		</div>
+		<div class="seccionpie" id="secpiemonot">
+			<div class="secpietitulo">
+				<a href="/monotematicos/">Monotemáticos</a>
+			</div>
+		</div>
+		<div class="seccionpie" id="secpieblog">
+			<div class="secpietitulo">
+				<a href="/bloging/">Blogging</a>
+			</div>
+		</div>
+		<div class="seccionpie" id="secpiecom">
+			<div class="secpietitulo">
+				<a href="/comunidad/">Comunidad</a>
+			</div>
+		</div>
+		<div class="redes-sociales">
+				<div class="fb" ><a href="#" class="enrs" target="_blank"><img src="/images/fb.png" border="0"></a></div>
+				<div class="twitter" ><a href="#" class="enrs" target="_blank"><img src="/images/twitter.png" border="0"></a></div>
+				<div class="youtube" ><a href="#" class="enrs" target="_blank"><img src="/images/youtube.png" border="0"></a></div>
+		</div>	
+	</div>
+</div>
+<div id="piefin">
+	<div id="contenidopiefin">
+		<div id="piefinnav">
+		<a href="/copyright/">Copyright</a> | 
+		<a href="/anunciese/">Publicidad</a> | 
+		<a href="/acercade/">Acerca de</a> |
+		<a href="/datos-legales/">Datos legales</a> |
+		<a href="/contacta/">Contacta</a> 
+		</div>
+		<div id="piefinlogo"><a href="/"><img src="/images/logo-abajo.png" width="144" height="22" alt="Ir a portada Desarrollo Web" border="0" /></a></div>
+		
+		
+	</div>
+</div>
+
+
+<!--</div>-->
+
+</body>
+</html>
